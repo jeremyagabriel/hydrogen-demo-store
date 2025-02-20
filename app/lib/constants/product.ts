@@ -8,7 +8,7 @@ import type {AspectRatio, MetafieldIdentifier} from '../types';
 export const PRODUCT_METAFIELDS_IDENTIFIERS = [
   {namespace: 'custom', key: 'care'},
   // {namespace: 'material', key: 'shirts'}, // <-- While localhost is running, comment this in to observe HMR error
-  // {namespace: 'custom', key: 'color'}, // Additional lines to comment to debug
+  // {namespace: 'custom', key: 'color'}, // <-- After reducing exports for components index.ts, while localhost is running, comment this in to observe there is no longer an HMR error
   // {namespace: 'custom', key: 'size'},
 ] as MetafieldIdentifier[];
 

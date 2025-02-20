@@ -32,3 +32,12 @@ export {Product5} from './Product5'; // <-- comment this out to avert HMR update
 // export {Product9} from './Product9';
 // export {Product10} from './Product10';
 // export {Product11} from './Product11';
+// export {Product12} from './Product12';
+// export {Product13} from './Product13';
+// export {Product14} from './Product14';
+// export {Product15} from './Product15';
+// export {Product16} from './Product16';
+// export {Product17} from './Product17';
+// export {Product18} from './Product18';
+// export {Product19} from './Product19';
+// export {Product20} from './Product20';
